@@ -1,0 +1,16 @@
+C:\Users\willian.sousa\SistemaBancario\obj\Debug\net5.0\SistemaBancario.csproj.AssemblyReference.cache
+C:\Users\willian.sousa\SistemaBancario\obj\Debug\net5.0\SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian.sousa\SistemaBancario\obj\Debug\net5.0\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\willian.sousa\SistemaBancario\obj\Debug\net5.0\SistemaBancario.AssemblyInfo.cs
+C:\Users\willian.sousa\SistemaBancario\obj\Debug\net5.0\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\willian.sousa\SistemaBancario\bin\Debug\net5.0\SistemaBancario.exe
+C:\Users\willian.sousa\SistemaBancario\bin\Debug\net5.0\SistemaBancario.deps.json
+C:\Users\willian.sousa\SistemaBancario\bin\Debug\net5.0\SistemaBancario.runtimeconfig.json
+C:\Users\willian.sousa\SistemaBancario\bin\Debug\net5.0\SistemaBancario.runtimeconfig.dev.json
+C:\Users\willian.sousa\SistemaBancario\bin\Debug\net5.0\SistemaBancario.dll
+C:\Users\willian.sousa\SistemaBancario\bin\Debug\net5.0\ref\SistemaBancario.dll
+C:\Users\willian.sousa\SistemaBancario\bin\Debug\net5.0\SistemaBancario.pdb
+C:\Users\willian.sousa\SistemaBancario\obj\Debug\net5.0\SistemaBancario.dll
+C:\Users\willian.sousa\SistemaBancario\obj\Debug\net5.0\ref\SistemaBancario.dll
+C:\Users\willian.sousa\SistemaBancario\obj\Debug\net5.0\SistemaBancario.pdb
+C:\Users\willian.sousa\SistemaBancario\obj\Debug\net5.0\SistemaBancario.genruntimeconfig.cache
